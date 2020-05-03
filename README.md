@@ -29,6 +29,8 @@
 
 * **Threshold is singular.** The significant tornado parameter (STP) was created to identify environments most likely to produce EF2+ tornadoes. This is identified when the STP is above its threshold value. If the STP is less than the threshold, then it is less likely for a significant tornado to occur. The threshold is one unit. Many websites show the raw value of STP on a continuous scale from zero to a number higher than one. But an STP of 6 doesn't mean anything. Its only significance is that it's higher than 1. It's a threshold. Treat it as such.
 
-* **Interpolate contours, sparingly.**
-* **Objectify subjective claims.**
-* **Favor observations.**
+* **Contours are context.** Color-filled areas draw attention to what is being communicated; contours provide context or clarification to the colors. But contours aren't an excuse to avoid the other rules.
+
+* **Objectify subjective claims.** Listen to what people say when interpreting data. "Model A is trending toward model B's solution." "Model A has a wet bias." "This is the most consistent I've seen models this far out." Can we objectively determine these things?
+
+* **Favor observations.** Ahead of each day, we can look at model forecasts some five or seven days ahead. But we can only look at observations for that day on that day. This imbalance has made us skilled at looking at models, but unskilled at translating what we've been seeing to the physical world when it starts to unfold. If we design our models to give us a look at what the observations might look like, and how the observations are differing from the modeled forecasts, we might be surprised less or see the key features sooner. Models should save lives, not just be a bunch of data.
