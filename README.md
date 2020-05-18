@@ -1,20 +1,20 @@
 # Map-Making Principles:
 * Plotting data is nothing.
-* Communication; not data.
+* Plot to communicate.
 * Plot for action.
 * Merge observations and models.
 * Binaries are sharp.
 * Probabilities are fuzzy.
 * Grids are pixeled.
 * Threshold is singular.
-* Interpolate contours, sparingly.
+* Contours are context.
 * Objectify subjective claims.
 * Favor observations.
 
 ## Expansion on these ideas.
 * **Plotting data is nothing.** Merely taking data you got from somewhere else, plotting it on a map, and giving it a basic colorscale and title is little more than a hello world script. Your first plot like this is important. But you should aim to improve beyond this.
 
-* **Communication; not data.** If merely putting data on a map is nothing, improving that plot means making it easier to communicate the intended message. Good science communication requires a balance of words and data. A good plot can help minimize the number of words it takes to communicate the message, though this should not be confused with a goal of "fewer is better." 
+* **Plot to communicate.** If merely putting data on a map is nothing, improving that plot means making it easier to communicate the intended message. Good science communication requires a balance of words and data. A good plot can help minimize the number of words it takes to communicate the message, though this should not be confused with a goal of "fewer is better." 
 > Facts generally take a long time to say. Good communication requires us to be faster than that.
 
 * **Plot for action.** Communication is not for awareness. People must take action. But remember: Fear is not action. Fear paralyzes.
@@ -34,3 +34,7 @@
 * **Objectify subjective claims.** Listen to what people say when interpreting data. "Model A is trending toward model B's solution." "Model A has a wet bias." "This is the most consistent I've seen models this far out." Can we objectively determine these things?
 
 * **Favor observations.** Ahead of each day, we can look at model forecasts some five or seven days ahead. But we can only look at observations for that day on that day. This imbalance has made us skilled at looking at models, but unskilled at translating what we've been seeing to the physical world when it starts to unfold. If we design our models to give us a look at what the observations might look like, and how the observations are differing from the modeled forecasts, we might be surprised less or see the key features sooner. Models should save lives, not just be a bunch of data.
+
+
+#### Note
+Doing any of this is easier said than done. Hopefully, it's something of a guide. But, maybe it's garbage. Your mileage may vary.
